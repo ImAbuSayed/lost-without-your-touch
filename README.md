@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-without-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Lost Without Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-without-your-touch/) |
+| **Get License** | [Secure Licensing Rights for Lost Without Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-without-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows falling across your skin
+> A midnight fire is starting deep within
+> I need the taste of honey on your lips
+> The gentle rhythm of your swaying hips
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

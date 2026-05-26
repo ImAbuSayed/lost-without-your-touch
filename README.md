@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-without-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Lost Without Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-without-your-touch/) |
+| **Get License** | [Official Music Licensing for Lost Without Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-without-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `86520da8d0bc770fa12a805523009b17fcdd9d08b28831e9597e5f874794e76d` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
